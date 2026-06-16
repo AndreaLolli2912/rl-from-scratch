@@ -9,3 +9,4 @@ docs/
 
 # Virtual environments
 .venv
+.serena
